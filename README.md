@@ -1,5 +1,5 @@
-# clean_biblio
-Clean and check a bibtex file for a `LaTeX` document. 
+# bibtex-clean
+Clean and check a bibtex file for a `LaTeX` document. Possible to convert journals to abbreviations, and compare journal names to a standard list and check for ambiguity. 
 
 ## Features:
 * removes unused fields (`files`,`groups`,`abstract`, `comment`, `hal_id`,`hal_version`)
