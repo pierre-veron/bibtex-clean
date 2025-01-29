@@ -1,3 +1,5 @@
+[![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org/)
+[![LaTeX](https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white)](https://www.latex-project.org/)
 # bibtex-clean
 Clean and check a bibtex file for a `LaTeX` document. Possible to convert journals to abbreviations, and compare journal names to a standard list and check for ambiguity. 
 
